@@ -1,2 +1,3 @@
 # eski_proyekt
-nazar uchunn
+nazar uchun
+
